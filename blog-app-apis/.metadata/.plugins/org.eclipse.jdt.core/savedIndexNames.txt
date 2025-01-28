@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Sashank\OneDrive\Desktop\Backend Spring development\blog-app-apis\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1067094681.index
+2779629487.index
+2833568920.index
